@@ -73,6 +73,12 @@ React Icons の SolidJS 版にあたるライブラリです。おそらくサ�
 
 https://github.com/x64Bits/solid-icons
 
+#### Web フォント
+
+Noto sans JP, Montserrat および Source Code Pro を用いています。これらは [Google Fonts](https://fonts.google.com/) から CDN で読み込むこともできますが、**Fontsource** を利用して `npm` パッケージとして扱っています。
+
+https://github.com/fontsource/fontsource
+
 ### 記事のスタイリングとデザイン
 
 #### remark/rehype
